@@ -3,7 +3,7 @@
 <p align="center">
   I love exploring the space where imagination meets logic — whether it’s Astronomy, crafting visuals, or turning abstract thoughts into digital experiences.  
 </p>
----
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://discord.gg/chocolatemuffin5289"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
