@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Mutasim</h1>
+<h1 align="center">Hi 👋, I'm Mutasim</h1>
 <h3 align="center">💡 Bringing Unusual Ideas to Life | 🎮 Coder | 🎥 Storyteller | 🧠 Creative Technologist</h3>
 <p align="center">
   I love exploring the space where imagination meets logic — whether it’s Astronomy, crafting visuals, or turning abstract thoughts into digital experiences.  
