@@ -1,11 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Mutasim</h1>
-<h3 align="center">🚀 Computer Science Student | 🧠 Creative Technologist | 🎬 Storyteller</h3>
+<h3 align="center">💡 Bringing Unusual Ideas to Life | 🎮 Coder | 🎥 Storyteller | 🧠 Creative Technologist</h3>
 <p align="center">
-  I love building things that blend logic and art — from C++ games and web projects to cinematic visuals and AI experiments.
+  I love exploring the space where imagination meets logic — whether it’s Astronomy, crafting visuals, or turning abstract thoughts into digital experiences.  
 </p>
-
 ---
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://discord.gg/chocolatemuffin5289"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -23,7 +21,6 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge"/><br/>
-
   <!-- Tools & Frameworks -->
   <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
@@ -31,7 +28,6 @@
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/><br/>
-
   <!-- Design -->
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   <img src="https://img.shields.io/badge/After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
@@ -58,11 +54,16 @@
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
+### 🎬 Words That Inspire Me
+> 🐢 “Yesterday is history, tomorrow is a mystery, but today is a gift — that’s why it’s called the present.”  
+> — *Master Oogway, Kung Fu Panda*  
+> 🍵 “It is important to draw wisdom from different places. If you take it from only one place, it becomes rigid and stale.”  
+> — *Uncle Iroh, Avatar: The Last Airbender*  
+> 🌌 “Do, or do not. There is no try.”  
+> — *Yoda, Star Wars*  
+> 🔥 “Sometimes the best way to solve your own problems is to help someone else.”  
+> — *Uncle Iroh*
+> 
 ---
 
-<p align="center">⚡ "Turning ideas into visuals, visuals into stories, and stories into experiences." ⚡</p>
+<p align="center">⚡ “Bringing unusual ideas to life — one line of code, one frame, one spark at a time.” ⚡</p>
