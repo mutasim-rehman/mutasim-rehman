@@ -54,7 +54,8 @@ I enjoy building things that start with a question and end with something tangib
 | 🌌 3D Solar System Explorer | 🧠 Brain MRI Classifier | ☄️ Near-Earth Objects Analyzer |
 |:---:|:---:|:---:|
 | Interactive universe using **Three.js** & **WebGL** textures. | AI model for classifying brain scans using **CNNs** & **Python**. | Analysis & visualization of **NASA NEO data**, identifying potentially hazardous asteroids. |
-| [View Code](https://github.com/mutasim-rehman) | [View Code](https://github.com/mutasim-rehman) | [View Code](https://github.com/mutasim-rehman/Near-Earth-Objects) |
+| [View Code](https://github.com/mutasim-rehman/Solar-System) | [View Code](https://github.com/mutasim-rehman/neuroview-ai) | [View Code](https://github.com/mutasim-rehman/Near-Earth-Objects) |
+| [View Project](https://mutasim-rehman.github.io/Solar-System/) | [View Project](https://neuroview-ai.vercel.app) | [View Project](https://mutasim-rehman.github.io/Near-Earth-Objects/) |
 
 ---
 
