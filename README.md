@@ -69,7 +69,7 @@ I enjoy building things that start with a question and end with something tangib
       <img src="https://github-readme-stats.vercel.app/api?username=mutasim-rehman&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=mutasim-rehman&theme=dark&hide_border=false"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mutasim-rehman&theme=dark&hide_border=false" />
     </td>
   </tr>
 </table>
