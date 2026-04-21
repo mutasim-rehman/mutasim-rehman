@@ -74,8 +74,10 @@ I enjoy building things that start with a question and end with something tangib
 
 <br/>
 
-
-
+![contribution grid](https://ghchart.rshah.org/1f4f54/mutasim-rehman)
+<br>
+---
+![github graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mutasim-rehman&theme=tokyonight)
 
 </div>
 
