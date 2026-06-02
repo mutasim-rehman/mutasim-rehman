@@ -4,7 +4,7 @@ Coder • Storyteller • Creative Technologist
 
 I explore the space where imagination meets logic — from astronomy-inspired thinking to crafting visuals and turning abstract ideas into digital experiences.
 
-I’m a computer science student majoring in data science, currently exploring LLMs and generative AI through curiosity-driven, hands-on projects.
+I am a computer science student majoring in data science, currently exploring LLMs and generative AI through curiosity-driven, hands-on projects.
 
 I enjoy building things that start with a question and end with something tangible.
 
