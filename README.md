@@ -1,6 +1,5 @@
 # 💫 About Me:
 Bringing Unusual Ideas to Life  
-Coder • Storyteller • Creative Technologist  
 
 I explore the space where imagination meets logic — from astronomy-inspired thinking to crafting visuals and turning abstract ideas into digital experiences.
 I am a computer science student majoring in data science, currently exploring LLMs and generative AI through curiosity-driven, hands-on projects.
