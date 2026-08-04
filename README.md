@@ -80,6 +80,8 @@ I enjoy building things that start with a question and end with something tangib
 </div>
 
 ---
+![3D-Contributions-Terrain](terrain-Arqamz.svg)
+---
 
 ### 🎬 Words That Inspire Me
 > “Yesterday is history, tomorrow is a mystery, but today is a gift — that’s why it’s called the present.”  
