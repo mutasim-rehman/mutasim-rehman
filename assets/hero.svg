@@ -1,0 +1,27 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="0" x2="1160" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#07140D"/><stop offset="0.5" stop-color="#0D1117"/><stop offset="1" stop-color="#07182A"/></linearGradient>
+    <linearGradient id="line" x1="172" y1="84" x2="1020" y2="245" gradientUnits="userSpaceOnUse"><stop stop-color="#22C55E"/><stop offset="1" stop-color="#38BDF8"/></linearGradient>
+    <radialGradient id="greenGlow"><stop stop-color="#22C55E" stop-opacity=".28"/><stop offset="1" stop-color="#22C55E" stop-opacity="0"/></radialGradient>
+    <radialGradient id="blueGlow"><stop stop-color="#38BDF8" stop-opacity=".24"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="140" cy="52" r="180" fill="url(#greenGlow)"/><circle cx="1080" cy="276" r="230" fill="url(#blueGlow)"/>
+  <g opacity=".3" fill="#8B949E"><circle cx="86" cy="242" r="1.5"/><circle cx="174" cy="90" r="1"/><circle cx="263" cy="268" r="1.3"/><circle cx="912" cy="68" r="1.2"/><circle cx="1042" cy="104" r="1.6"/><circle cx="1122" cy="216" r="1"/><circle cx="761" cy="250" r="1.2"/><circle cx="397" cy="56" r="1.4"/><circle cx="579" cy="279" r="1"/></g>
+  <g transform="translate(1030 58)" opacity=".9">
+    <ellipse rx="78" ry="25" stroke="#38BDF8" stroke-opacity=".32"/><ellipse rx="58" ry="18" transform="rotate(65)" stroke="#22C55E" stroke-opacity=".32"/><circle r="6" fill="#E6EDF3"/>
+    <circle cx="72" cy="-9" r="4" fill="#38BDF8"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="12s" repeatCount="indefinite"/></circle>
+  </g>
+  <path d="M222 232C356 185 426 244 563 202C700 160 788 92 972 124" stroke="url(#line)" stroke-width="2" stroke-linecap="round" stroke-dasharray="7 10" opacity=".5"/>
+  <circle cx="563" cy="202" r="5" fill="#22C55E"/><circle cx="972" cy="124" r="5" fill="#38BDF8"/>
+  <text x="600" y="112" text-anchor="middle" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="750" letter-spacing="1">MUTASIM UR REHMAN</text>
+  <text x="600" y="153" text-anchor="middle" fill="url(#line)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="18" letter-spacing="3">CREATIVE TECHNOLOGIST · AI BUILDER · 3D EXPLORER</text>
+  <g transform="translate(351 184)" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">
+    <rect width="112" height="32" rx="16" fill="#22C55E" fill-opacity=".12" stroke="#22C55E" stroke-opacity=".5"/><text x="56" y="21" text-anchor="middle" fill="#7EE787">AI SYSTEMS</text>
+    <rect x="126" width="126" height="32" rx="16" fill="#38BDF8" fill-opacity=".12" stroke="#38BDF8" stroke-opacity=".5"/><text x="189" y="21" text-anchor="middle" fill="#79C0FF">VISUAL WORLDS</text>
+    <rect x="266" width="132" height="32" rx="16" fill="#22C55E" fill-opacity=".12" stroke="#22C55E" stroke-opacity=".5"/><text x="332" y="21" text-anchor="middle" fill="#7EE787">DATA + ROBOTS</text>
+    <rect x="412" width="86" height="32" rx="16" fill="#38BDF8" fill-opacity=".12" stroke="#38BDF8" stroke-opacity=".5"/><text x="455" y="21" text-anchor="middle" fill="#79C0FF">CURIOUS</text>
+  </g>
+  <text x="600" y="277" text-anchor="middle" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="1">BRINGING UNUSUAL IDEAS TO LIFE</text>
+</svg>
